@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7ce89bb-c3f5-40a7-9094-1f39e8336286" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Bus-booking/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bus-booking/bus.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bus-booking/errors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bus-booking/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bus-booking/loginform.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bus-booking/registration.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bus-booking/registration.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bus-booking/server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Bus Info/businfo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Bus Info/busupdate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Bus Info/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Bus_reservation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Bustype/Bustype.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Bustype/Bustypeupdate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Bustype/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Company/company.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Company/companyupdate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Company/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Departure/departure.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Departure/departureupdate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Departure/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/FindBus/book.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/FindBus/bookpost.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/FindBus/findbus.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/FindBus/findpage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/FindBus/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/FindBus/response.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Include/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Include/sqlconn.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Login/create_user.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Login/create_userupdate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Login/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Login/location.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Login/locationupdate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Login/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Login/loginscript.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Login/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Login/passcript.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Login/passcript_user.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Login/passowrd.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Login/password_user.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Login/user.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Login/userupdate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Post/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Post/post.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Post/postupdate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Query/datequery.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Query/datequery_user.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Query/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Route/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Route/route.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Route/routeupdate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Script/amount_ajax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Script/datepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Script/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Setup/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Setup/main.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Setup/setmain.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Setup/setmini.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/Setup/top.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/User/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/User/main.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/User/setmain.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/User/setmini.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/User/top.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/dashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/eticket.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/loginform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/panel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/passenger_details.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/passenger_registration.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BusBooking/registration.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn Bus-Boking system/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn Bus-Boking system/registration/frank.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn Bus-Boking system/registration/registration.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn Bus-Boking system/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn-College Bus Booking/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn-College Bus Booking/admin/change-password.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn-College Bus Booking/admin/check_availability.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn-College Bus Booking/admin/css/basictable.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn-College Bus Booking/admin/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn-College Bus Booking/admin/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn-College Bus Booking/admin/css/icon-font.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn-College Bus Booking/admin/css/jqcandlestick.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn-College Bus Booking/admin/css/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn-College Bus Booking/admin/css/lightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn-College Bus Booking/admin/css/monthly.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn-College Bus Booking/admin/css/morris.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn-College Bus Booking/admin/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn-College Bus Booking/admin/database/tms.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn-College Bus Booking/admin/enquiry.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn-College Bus Booking/admin/forgot-password.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn-College Bus Booking/admin/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn-College Bus Booking/admin/issuetickets.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn-College Bus Booking/admin/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn-College Bus Booking/admin/package-details.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn-College Bus Booking/admin/package-list.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn-College Bus Booking/admin/page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn-College Bus Booking/admin/profile.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn-College Bus Booking/admin/thankyou.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cytonn-College Bus Booking/admin/tour-history.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CytonnBusBooking/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CytonnBusBooking/Admin/Businfo/Bus_Reservation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CytonnBusBooking/Admin/Registration.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CytonnBusBooking/User/Passenger/Bus_Reservation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CytonnBusBooking/User/Passenger/Passenger_Details.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CytonnBusBooking/User/Registration.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/cytonnbusbookingpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/cytonnbusbookingpage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CytonnTour-Travel/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CytonnTour-Travel/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CytonnTour-Travel/Multi-loging/Admin/create_user.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CytonnTour-Travel/Multi-loging/Admin/frank.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CytonnTour-Travel/Multi-loging/Admin/functions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CytonnTour-Travel/Multi-loging/Admin/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CytonnTour-Travel/Multi-loging/Admin/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CytonnTour-Travel/Multi-loging/Admin/home.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CytonnTour-Travel/Multi-loging/Admin/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CytonnTour-Travel/Multi-loging/Admin/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CytonnTour-Travel/Multi-loging/Admin/registration.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CytonnTour-Travel/Multi-loging/Admin/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVASCRIPT/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVASCRIPT/BOM/js/example.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVASCRIPT/BOM/js/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVASCRIPT/assignment2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVASCRIPT/example.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVASCRIPT/function.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVASCRIPT/fuunctions2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVASCRIPT/iano.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVASCRIPT/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVASCRIPT/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVASCRIPT/index3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVASCRIPT/index4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVASCRIPT/index6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVASCRIPT/js/bom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVASCRIPT/js/bom2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVASCRIPT/js/example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVASCRIPT/js/loop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVASCRIPT/js/objects 2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVASCRIPT/js/objects.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVASCRIPT/objectclass.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVASCRIPT/objects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KnutzBusServices/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KnutzBusServices/data_table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KnutzBusServices/errors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KnutzBusServices/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KnutzBusServices/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KnutzBusServices/product.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KnutzBusServices/pserver.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KnutzBusServices/registration.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KnutzBusServices/registrationform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KnutzBusServices/server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online-Bus-Booking-Tracking-System-master/.idea/Online-Bus-Booking-Tracking-System-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online-Bus-Booking-Tracking-System-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online-Bus-Booking-Tracking-System-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online-Bus-Booking-Tracking-System-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online-Bus-Booking-Tracking-System-master/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online-Bus-Reservation-PHP/.idea/Online-Bus-Reservation-PHP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online-Bus-Reservation-PHP/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online-Bus-Reservation-PHP/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online-Bus-Reservation-PHP/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online-Bus-Reservation-PHP/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/.idea/Tours-and-travels-in-php-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/change-image.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/change-password.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/create-package.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/css/basictable.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/css/icon-font.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/css/jqcandlestick.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/css/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/css/lightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/css/monthly.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/css/morris.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/css/table-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/dashboard.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/images/User-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/images/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/images/closew.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/images/cross.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/images/grid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/images/icon_sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/images/leftw.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/images/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/images/phon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/images/prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/images/right_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/images/rightw.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/images/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/images/smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/images/tick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/images/tick1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/includes/config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/includes/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/includes/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/includes/header1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/includes/kashipara.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/includes/sidebarmenu.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/js/Chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/js/jquery-2.1.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/js/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/js/jquery.basictable.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/js/jquery.jqcandlestick.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/js/jquery.nicescroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/js/lightbox-plus-jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/js/monthly.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/js/morris.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/js/raphael-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/manage-bookings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/manage-enquires.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/manage-packages.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/manage-pages.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/manage-users.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/manageissues.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/nicEdit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/pacakgeimages/14287acc-b5cb-46db-b8b4-e3ffe652fc0d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/pacakgeimages/XAMPP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/pacakgeimages/banner1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/pacakgeimages/complaints.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/pacakgeimages/coorg-hill-station1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/pacakgeimages/images.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/pacakgeimages/java.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/pacakgeimages/mamp-pro-logo-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/pacakgeimages/phpgurukul-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/pacakgeimages/phpgurukulhindi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/update-package.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/admin/updateissue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/change-password.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/check_availability.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/css/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/database/tms.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/enquiry.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/forgot-password.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/app.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/bus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/c1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/c4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/c5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/date-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/dot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/h1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/h2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/h3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/h4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/h5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/img-sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/map1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/mark1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/seat-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/seat-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/seat-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/seat-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/seat-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/seat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/social.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/images/t2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/includes/config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/includes/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/includes/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/includes/images/kashipara.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/includes/kashipara.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/includes/signin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/includes/signup.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/includes/write-us.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/instruction.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/issuetickets.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/js/jquery-1.12.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/js/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/js/wow.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/package-details.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/package-list.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/profile.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/thankyou.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tour-Travel/Tours-and-travels-in-php-master/tour-history.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tours-and-travels-in-php-master/.idea/Tours-and-travels-in-php-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tours-and-travels-in-php-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tours-and-travels-in-php-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tours-and-travels-in-php-master/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cytonnbuscollegeservice/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cytonnbuscollegeservice/admin/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cytonnbuscollegeservice/admin/registration.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cytonnbuscollegeservice/admin/responsiveform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cytonnbuscollegeservice/admin/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deejaykuntz/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deejaykuntz/dashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deejaykuntz/js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deejaykuntz/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modernbus-booking/admin/datatable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modernbus-booking/admin/errors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modernbus-booking/admin/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modernbus-booking/admin/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modernbus-booking/admin/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modernbus-booking/admin/loginform.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modernbus-booking/admin/product.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modernbus-booking/admin/pserver.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modernbus-booking/admin/registration.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modernbus-booking/admin/registrationform.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modernbus-booking/admin/server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modernbus-booking/admin2/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modernbus-booking/admin2/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modernbus-booking/admin2/login2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modernbus-booking/admin2/login3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modernbus-booking/admin2/logoutpage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modernbus-booking/adminfrank/registrationpage/registration.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modernbus-booking/css/sb-admin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modernbus-booking/css/sb-admin.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modernbus-booking/registrationforms/loginform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modernbus-booking/registrationforms/register2/frank.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modernbus-booking/registrationforms/register2/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modernbus-booking/registrationforms/registrationform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yulubusservice/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yulubusservice/multi_admin/admin/create_user.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yulubusservice/multi_admin/admin/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yulubusservice/multi_admin/admin/home.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yulubusservice/multi_admin/admin/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yulubusservice/multi_admin/admin/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yulubusservice/multi_admin/admin/register.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yulubusservice/multi_admin/admin/style.css" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1628909991">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="4" />
+          <entry key="php" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="4" />
+          <entry key="PHP" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="1812" />
+          <entry key="php" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="1812" />
+          <entry key="PHP" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin/cytonnbusbookingpage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/admin/change_password.php" />
+        <option value="$PROJECT_DIR$/admin/check_availability.php" />
+        <option value="$PROJECT_DIR$/admin/mypage.html" />
+        <option value="$PROJECT_DIR$/admin/dashboard.html" />
+        <option value="$PROJECT_DIR$/admin/customers page.html" />
+        <option value="$PROJECT_DIR$/admin/cytonnbusbookingpage.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="826" />
+    <option name="y" value="38" />
+    <option name="width" value="774" />
+    <option name="height" value="843" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CytonnBusBooking2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CytonnBusBooking2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CytonnBusBooking2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CytonnBusBooking2" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CytonnBusBooking2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CytonnBusBooking2" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7ce89bb-c3f5-40a7-9094-1f39e8336286" name="Default Changelist" comment="" />
+      <created>1543923203996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543923203996</updated>
+      <workItem from="1543923205880" duration="1297000" />
+      <workItem from="1543926594184" duration="711000" />
+      <workItem from="1543936132584" duration="4433000" />
+      <workItem from="1544010911228" duration="14267000" />
+      <workItem from="1544090201472" duration="8919000" />
+      <workItem from="1544177979838" duration="5228000" />
+      <workItem from="1547842557041" duration="520000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35375000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="59" y="25" width="1541" height="875" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14381272" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31543624" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13177258" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/admin/change_password.php" />
+    <entry file="file://$PROJECT_DIR$/admin/check_availability.php" />
+    <entry file="file://$PROJECT_DIR$/admin/logout.php" />
+    <entry file="file://$PROJECT_DIR$/admin/issuetickets.php" />
+    <entry file="file://$PROJECT_DIR$/admin/forgot-password.php" />
+    <entry file="file://$PROJECT_DIR$/admin/enquiry.php" />
+    <entry file="file://$PROJECT_DIR$/admin/page.php" />
+    <entry file="file://$PROJECT_DIR$/admin/profile.php" />
+    <entry file="file://$PROJECT_DIR$/admin/customers page.html" />
+    <entry file="file://$PROJECT_DIR$/admin/mypage.html" />
+    <entry file="file://$PROJECT_DIR$/admin/dashboard.html" />
+    <entry file="file://$PROJECT_DIR$/admin/cytonnbusbookingpage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
